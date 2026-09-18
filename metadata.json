@@ -1,0 +1,6 @@
+{
+  "name": "MerchForge - On-Demand Merch Mockups",
+  "description": "Upload your logo to place on apparel and merchandise product shots with AI generation, live preview adjustments, and print-ready 300 DPI exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
